@@ -7,21 +7,21 @@
 ### Paso 1: Introducir los nombres
 Primero, escribe el nombre de tus amigos en el campo de texto y haz clic en el botón **"Añadir"**. Cada vez que agregues un nombre, aparecerá en la lista de amigos. 
 
-![Paso 1: Introducir nombres](imag1.png)
+![Paso 1: Introducir nombres](img1.png)
 
 ---
 
 ### Paso 2: Ver la lista de amigos
 A medida que agregas nombres, se irán mostrando en una lista. Así puedes asegurarte de que todos los nombres están incluidos antes de hacer el sorteo.
 
-![Paso 2: Lista de amigos](imag2.png)
+![Paso 2: Lista de amigos](img2.png)
 
 ---
 
 ### Paso 3: Sortear el amigo secreto
 Cuando tengas todos los nombres en la lista, haz clic en el botón **"Sortear amigo"**. El juego seleccionará un nombre al azar y te mostrará quién es el amigo secreto.
 
-![Paso 3: Resultado del sorteo](imag3.png)
+![Paso 3: Resultado del sorteo](img3.png)
 
 ---
 
